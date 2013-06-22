@@ -1,0 +1,9 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://ibuchanan.github.io/gh-pages-jekyll-example
+title: GitHub Pages Jekyll Example
+subtitle: An experiment in publishing gh-pages
+author: Ian Buchanan
+description: The doc directory contains a jekyll site that is published to gh-pages.
